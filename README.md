@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Elakkiyalossini 👋
 
-<!--
-**Elakkiyalossini-V/Elakkiyalossini-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year B.Sc. Computer Science Student
 
-Here are some ideas to get you started:
+📊 Passionate about Data Analytics and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:
+- SQL
+- Python
+- Excel
+- Power BI
+
+🚀 Currently Learning:
+- Advanced SQL
+- Data Analysis with Python
+- Power BI Dashboard Development
+
+📈 Building projects and continuously improving my analytical and problem-solving skills.
+
+

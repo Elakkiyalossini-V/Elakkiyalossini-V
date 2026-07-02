@@ -55,9 +55,6 @@ I'm a final-year B.Sc. Computer Science student with a strong interest in **data
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elakkiyalossini-V&bg_color=0F172A&color=7DD3FC&line=38BDF8&point=F8FAFC&hide_border=true" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elakkiyalossini-V&theme=onedark&no-frame=true&margin-w=10&row=1" width="90%" />
-</p>
 
 
 📈 Let's Connect

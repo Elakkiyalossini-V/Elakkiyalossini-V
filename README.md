@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elakkiyalossini-V/Elakkiyalossini-V/main/banner-motion.svg" alt="Elakkiyalossini banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Elakkiyalossini 👋</h1>
 <h3 align="center">🎓 Final-Year B.Sc. Computer Science Student | 📊 Aspiring Data Analyst / Data Scientist</h3>
 <p align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elakkiyalossini-V/Elakkiyalossini-V/main/banner-motion.svg" alt="Elakkiyalossini banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Elakkiyalossini-V/Elakkiyalossini-V/refs/heads/main/banner-motion.svg" alt="Elakkiyalossini banner" width="100%" />
 </p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Learning+SQL+%7C+Python+%7C+Power+BI;Building+my+first+data+projects" alt="Typing SVG" />
 </p>

@@ -37,23 +37,28 @@ I'm a final-year B.Sc. Computer Science student with a strong interest in **data
 🚀 Currently Learning
 
 
-🧮 Advanced SQL
-🐍 Data Analysis with Python (Pandas, NumPy)
-📊 Power BI Dashboard Development
+🧮 Advanced SQL-🐍 Data Analysis with Python (Pandas, NumPy)-📊 Power BI Dashboard Development
 
 
-
-
-
-📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elakkiyalossini-V&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elakkiyalossini-V&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elakkiyalossini-V&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=7DD3FC&text_color=94A3B8" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elakkiyalossini-V&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elakkiyalossini-V&layout=compact&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elakkiyalossini-V&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=94A3B8" width="50%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elakkiyalossini-V&bg_color=0F172A&color=7DD3FC&line=38BDF8&point=F8FAFC&hide_border=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Elakkiyalossini-V&theme=darkhub&no-frame=true&margin-w=10&row=1" width="90%" />
+</p>
+
 
 📈 Let's Connect
 

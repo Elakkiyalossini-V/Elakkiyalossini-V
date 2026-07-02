@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elakkiyalossini-V/Elakkiyalossini-V/refs/heads/main/banner-motion.svg" alt="Elakkiyalossini banner" width="100%" />
 </p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Learning+SQL+%7C+Python+%7C+Power+BI;Building+my+first+data+projects" alt="Typing SVG" />
 </p>
 
@@ -10,14 +11,17 @@
   <a href="https://github.com/Elakkiyalossini-V"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-🧑‍💻 About Me
+### 🧑‍💻 About Me
 
+I'm a final-year B.Sc. Computer Science student with a strong interest in **data analytics and data science**. I enjoy working with data end-to-end — from cleaning and querying it, to building dashboards that make it easy to act on.
 
-🎓 Final-year B.Sc. Computer Science student
-📊 Passionate about Data Analytics and Data Science
-🔍 I enjoy turning raw data into clear, actionable insights
-🌱 Currently sharpening my skills in advanced SQL and Python-based data analysis
-🤝 Open to internships, collaborations, and data-related projects
+- 🔭 Currently strengthening my skills in **SQL, Python, and Power BI** through hands-on projects
+- 📊 Focused on transforming raw datasets into clear, decision-ready insights and dashboards
+- 🌱 Continuously learning — from advanced SQL techniques to data visualization best practices
+- 🎯 Working toward a role as a Data Analyst, applying analytical thinking to real business problems
+- 🤝 Open to internships, collaborations, and opportunities in data analytics
+
+📫 Feel free to connect — I'm always glad to discuss data, analytics, or potential opportunities.
 
 
 

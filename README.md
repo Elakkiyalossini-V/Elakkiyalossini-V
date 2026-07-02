@@ -56,7 +56,7 @@ I'm a final-year B.Sc. Computer Science student with a strong interest in **data
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elakkiyalossini-V&theme=darkhub&no-frame=true&margin-w=10&row=1" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Elakkiyalossini-V&theme=onedark&no-frame=true&margin-w=10&row=1" width="90%" />
 </p>
 
 

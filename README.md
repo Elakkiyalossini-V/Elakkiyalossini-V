@@ -37,7 +37,7 @@ I'm a final-year B.Sc. Computer Science student with a strong interest in **data
 🚀 Currently Learning
 
 
-🧮 Advanced SQL-🐍 Data Analysis with Python (Pandas, NumPy)-📊 Power BI Dashboard Development
+🧮 Advanced SQL -🐍 Data Analysis with Python (Pandas, NumPy) -📊 Power BI Dashboard Development
 
 
 ### 📊 GitHub Stats
